@@ -4,9 +4,12 @@ Welcome to Waterlily, a full-stack TypeScript application with a React frontend 
 
 ## Video Tutorial
 
-[Insert video link here]
+[video link demo](https://drive.google.com/file/d/1vsQhpKIBck89AB4_h53wNkSof2jbKC4N/view?usp=sharing)
 
 ## Project Overview
+
+### File explanation:
+[document file](https://docs.google.com/document/d/1JIcYPhea5BCvIOZ_l0vcjnICJj36AcKYIjHv5BbMYWE/edit?usp=sharing)
 
 Waterlily is a multi-step form application with user authentication (signup/login). It uses:
 
